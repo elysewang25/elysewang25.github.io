@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Times World University Ranking (2011-2016)
 
-You can use the [editor on GitHub](https://github.com/elysewang25/octocat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dataset: Times World University Ranking (2011-2016) -obtained from Data.World, contributer: Hozefa Haveliwala, original data is obtained from https://www.timeshighereducation.com/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link (URL) of the dataset: https://query.data.world/s/ly237ztepnjxemwmftzkmb6v4gbdgd (225kb)
 
+License of the dataset: Based on Data.WOrld’s Common Data License type, “The work has been dedicated to the public domain by waiving all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.” 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
